@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
-    <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/bhekor?tab=followers">
+    <img src="https://img.shields.io/github/followers/bhekor?label=Github%20Followers&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/bhekor">
+    <img src="https://img.shields.io/twitter/follow/bhekor?color=1C9CEA&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
     <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center">A technology enthusiast with over 7 years of experience in programming (web, software, games, and robotics etc) and passionate about solving real-world problems using every available technology. I love creating and supporting technology products that promote wealth creation for individuals and as well the nation's economy as a whole. I believe our future growth relies on skills, productivity, competitiveness, and innovation.</p>
+
 <p align="center">
   <a href="https://github.com/bhekor?tab=followers">
     <img src="https://img.shields.io/github/followers/bhekor?color=D63F23&logo=github&style=for-the-badge" alt="GitHub badge" />
@@ -14,14 +16,15 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhekor&theme=tokyonight" />
 </p>
 
+<hr>
 
-<h4 align="center">My Projects</h4>
-<h1 align="center">❝</h1>
+<h3 align="center">My Projects</h4>
+<h2 align="center">❝</h1>
 
 <table>
   <tr>
-    <th>Author</th>
-    <th>Message</th>
+    <th>Project</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>

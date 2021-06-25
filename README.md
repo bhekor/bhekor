@@ -12,6 +12,9 @@
   <a href="http://twitter.com/bhekor">
     <img src="https://img.shields.io/twitter/follow/bhekor?color=1C9CEA&logo=twitter&style=for-the-badge" />
   </a>
+  <a href="https://bhekor.com.ng">
+    <img src="https://img.shields.io/badge/Website-bhekor.com.ng-green?color=25D366&logo=webmoney&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -21,7 +24,7 @@
 
 <hr>
 
-<h3 align="center">My Projects</h4>
+<h3 align="center">💼 My Projects</h4>
 
 <table>
   <tr>
@@ -29,26 +32,25 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
-    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
+    <td><a target="_blank" href="https://webastry.com.ng">Webastry Designs</a></td>
+    <td>A web development and digital marketing agency that is focused on providing quality and standard high conversion rate services with returns on the actual investment.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
-    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
+    <td><a target="_blank" href="https://semicons.tech">Semicons Technologies</a></td>
+    <td>A platform/community provides and offers innovative thinkers and technology enthusiasts the necessary tools and knowledge base to bring their imaginations to live</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
-    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
+    <td><a target="_blank" href="https://matigon.ng">Matigon Technology</a></td>
+    <td>Matigon is a real estate and technology development company which incorporates several sustainable design approaches and technical expertise with an Afro modernist style in closing the housing development gap in the African market.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
-    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
+    <td colspan="2" align="center">Among others</td>
   </tr>
 </table>
 
 <hr>
 
-<h3 align="center">My Technology Stack :computer:</h4>
+<h3 align="center">👨‍💻 My Technology Stack</h4>
 
 <br>
 <table>

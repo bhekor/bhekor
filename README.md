@@ -53,76 +53,24 @@
 <h3 align="center">👨‍💻 My Technology Stack</h4>
 
 <br>
-<table>
+<table align="center">
 <tbody>
  <tr>
-<td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-</td>
+<td align="center" width="25%"><img height="60px" src="https://user-images.githubusercontent.com/10033255/123435284-536f2a80-d5c5-11eb-929c-09a2174e4d1f.png"></td>
+<td align="center" width="25%"><img height=60px src="https://user-images.githubusercontent.com/10033255/123436188-4acb2400-d5c6-11eb-8ab1-89dc647420a2.png"></td>
+<td align="center" width="25%"><img height=60px src="https://user-images.githubusercontent.com/10033255/123436786-e78dc180-d5c6-11eb-9b88-4b6e53898f59.png"></td>
+<td align="center" width="25%"><img height=60px src="https://user-images.githubusercontent.com/10033255/123437127-42271d80-d5c7-11eb-9a13-591f3ea502e2.png"></td>
+<td align="center" width="25%"><img height=60px src="https://user-images.githubusercontent.com/10033255/123437617-c679a080-d5c7-11eb-9e53-04e20456453b.png"></td>
+<td align="center" width="25%"><img height=60px src="https://user-images.githubusercontent.com/10033255/123437768-f32db800-d5c7-11eb-8133-04495238ead5.png"></td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
+<td align="center" width="25%"><img height=65px src="https://user-images.githubusercontent.com/10033255/123438788-f8d7cd80-d5c8-11eb-9714-f384a673f372.png"></td>
+<td align="center" width="25%"><img height=65px src="https://user-images.githubusercontent.com/10033255/123438841-042af900-d5c9-11eb-88af-049429851af4.png"></td>
+<td align="center" width="25%"><img height=65px src="https://user-images.githubusercontent.com/10033255/123439190-61bf4580-d5c9-11eb-8132-48ca74f43661.png"></td>
+<td align="center" width="25%"><img height=65px src="https://user-images.githubusercontent.com/10033255/123439391-9d5a0f80-d5c9-11eb-9740-2fb26df02af6.png"></td>
+<td align="center" width="25%"><img height=65px src="https://user-images.githubusercontent.com/10033255/123440085-528cc780-d5ca-11eb-9dd4-a7748afc79ee.png"></td>
+<td align="center" width="25%"><img height=65px src="https://user-images.githubusercontent.com/10033255/123440320-8d8efb00-d5ca-11eb-80ba-381307dccbce.png"></td>
 </tr>
 
 </tbody>

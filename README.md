@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![bhekorcover](https://user-images.githubusercontent.com/10033255/123408035-7d642500-d5a4-11eb-9008-1641e4e155e7.png)
+
 <p align="center">A technology enthusiast with over 7 years of experience in programming (web, software, games, and robotics etc) and passionate about solving real-world problems using every available technology. I love creating and supporting technology products that promote wealth creation for individuals and as well the nation's economy as a whole. I believe our future growth relies on skills, productivity, competitiveness, and innovation.</p>
 
 <p align="center">
@@ -19,7 +22,6 @@
 <hr>
 
 <h3 align="center">My Projects</h4>
-<h2 align="center">❝</h1>
 
 <table>
   <tr>
@@ -46,7 +48,7 @@
 
 <hr>
 
-## My Technology Stack :computer:
+<h3 align="center">My Technology Stack :computer:</h4>
 
 <br>
 <table>

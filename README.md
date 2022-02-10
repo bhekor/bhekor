@@ -53,6 +53,22 @@
 <h3 align="center">👨‍💻 My Technology Stack</h4>
 
 <br>
+<div align="center">
+<a target="_blank" href="https://webastry.com.ng"><img style="display:inline-block;" height=70px src="https://user-images.githubusercontent.com/10033255/123436188-4acb2400-d5c6-11eb-8ab1-89dc647420a2.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img style="display:inline-block;" height="70px" src="https://user-images.githubusercontent.com/10033255/123435284-536f2a80-d5c5-11eb-929c-09a2174e4d1f.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img style="display:inline-block;" height=70px src="https://user-images.githubusercontent.com/10033255/123436786-e78dc180-d5c6-11eb-9b88-4b6e53898f59.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123438788-f8d7cd80-d5c8-11eb-9714-f384a673f372.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123438841-042af900-d5c9-11eb-88af-049429851af4.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123439190-61bf4580-d5c9-11eb-8132-48ca74f43661.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123439391-9d5a0f80-d5c9-11eb-9740-2fb26df02af6.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123437617-c679a080-d5c7-11eb-9e53-04e20456453b.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123437768-f32db800-d5c7-11eb-8133-04495238ead5.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123440085-528cc780-d5ca-11eb-9dd4-a7748afc79ee.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123440320-8d8efb00-d5ca-11eb-80ba-381307dccbce.png"></a>
+<a target="_blank" href="https://webastry.com.ng"><img style="display:inline-block;" height=70px src="https://user-images.githubusercontent.com/10033255/123437127-42271d80-d5c7-11eb-9a13-591f3ea502e2.png"></a>
+ </div>
+
+<!-- <br>
 <table align="center">
 <tbody>
  <tr>
@@ -77,7 +93,7 @@
  </tr>
 
 </tbody>
-</table>
+</table> -->
 
 <hr>
 

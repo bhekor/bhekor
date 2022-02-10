@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/bhekor?tab=followers">
-    <img src="https://img.shields.io/github/followers/henryhogan?color=D63F23&logo=github&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/bhekor?color=D63F23&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/bhekor">
     <img src="https://img.shields.io/twitter/follow/bhekor?color=1C9CEA&logo=twitter&style=for-the-badge" />

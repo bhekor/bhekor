@@ -36,12 +36,16 @@
     <td>A web development and digital marketing agency that is focused on providing quality and standard high conversion rate services with returns on the actual investment.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://semicons.tech">Semicons Technologies</a></td>
-    <td>A platform/community provides and offers innovative thinkers and technology enthusiasts the necessary tools and knowledge base to bring their imaginations to live</td>
+    <td><a target="_blank" href="https://utilify.ng">Utilify Networks</a></td>
+    <td>Utilify Networks is a cutting-edge online platform dedicated to simplifying the payment process of utility bills, providing secure and convenient bill management solutions to users.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://matigon.ng">Matigon Technology</a></td>
-    <td>Matigon is a real estate and technology development company which incorporates several sustainable design approaches and technical expertise with an Afro modernist style in closing the housing development gap in the African market.</td>
+    <td><a target="_blank" href="https://beezlinq.com">Beezlinq</a></td>
+    <td>Beezlinq is an eco-friendly app that allows you to create, scan & digitize both old and new paper business cards, save them in an e-wallet, and share and retrieve them in seconds!</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://travelconet.com">Travelconet LTD</a></td>
+    <td>Travelconet Limited is a highly reputed travel agency, with its headquarters in Nigeria, also extending to the United Kingdom. The brand is fast becoming a household name in the travel space. </td>
   </tr>
   <tr>
     <td colspan="2" align="center">Among others</td>

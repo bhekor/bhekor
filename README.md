@@ -1,124 +1,212 @@
-### Hi there 👋
+# Hi, I'm Ibidapo Adeolu 👋
 
-
-![bhekorcover](https://user-images.githubusercontent.com/10033255/123408035-7d642500-d5a4-11eb-9008-1641e4e155e7.png)
-
-<p align="center">A technology enthusiast with over 7 years of experience in programming (web, software, games, and robotics etc) and passionate about solving real-world problems using every available technology. I love creating and supporting technology products that promote wealth creation for individuals and as well the nation's economy as a whole. I believe our future growth relies on skills, productivity, competitiveness, and innovation.</p>
+### Senior Software Engineer | Fintech & Financial Systems | AI & LLM Engineering
 
 <p align="center">
-  <a href="https://github.com/bhekor?tab=followers">
-    <img src="https://img.shields.io/github/followers/bhekor?color=D63F23&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/bhekor">
-    <img src="https://img.shields.io/twitter/follow/bhekor?color=1C9CEA&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://bhekor.com.ng">
-    <img src="https://img.shields.io/badge/Website-bhekor.com.ng-green?color=25D366&logo=webmoney&style=for-the-badge" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/10033255/123408035-7d642500-d5a4-11eb-9008-1641e4e155e7.png" width="100%"
+    alt="Ibidapo Adeolu | Senior Software Engineer" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhekor&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhekor&theme=tokyonight" />
+  I build software products that solve real-world problems. My work spans fintech, financial systems, backend architecture, e-commerce, travel technology, and AI-powered applications.
 </p>
 
-<hr>
+<p align="center">
+  With 6+ years of software engineering experience, I specialise in designing and delivering reliable backend systems, financial technology platforms, scalable APIs, and intelligent software solutions. I enjoy taking ideas from architecture to production, solving complex engineering problems, and building technology that creates meaningful business value.
+</p>
 
-<h3 align="center">💼 My Projects</h4>
+<p align="center">
+  <a href="https://github.com/bhekor"><img src="https://img.shields.io/github/followers/bhekor?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers" /></a>
+  <a href="https://github.com/bhekor?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-167D8D?style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <a href="https://bhekor.com.ng"><img src="https://img.shields.io/badge/Portfolio-bhekor.com.ng-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:adeoluibidapo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://webastry.com.ng">Webastry Designs</a></td>
-    <td>A web development and digital marketing agency that is focused on providing quality and standard high conversion rate services with returns on the actual investment.</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://utilify.ng">Utilify Networks</a></td>
-    <td>Utilify Networks is a cutting-edge online platform dedicated to simplifying the payment process of utility bills, providing secure and convenient bill management solutions to users.</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://beezlinq.com">Beezlinq</a></td>
-    <td>Beezlinq is an eco-friendly app that allows you to create, scan & digitize both old and new paper business cards, save them in an e-wallet, and share and retrieve them in seconds!</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://travelconet.com">Travelconet LTD</a></td>
-    <td>Travelconet Limited is a highly reputed travel agency, with its headquarters in Nigeria, also extending to the United Kingdom. The brand is fast becoming a household name in the travel space. </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">Among others</td>
+---
+
+## 🚀 What I Do
+
+- **Fintech Engineering:** Building digital wallets, payment infrastructure, transaction processing systems, utility payment platforms, and cooperative financial applications.
+- **Backend Engineering:** Designing scalable APIs, application architecture, database systems, integrations, and reliable backend services.
+- **AI & LLM Engineering:** Integrating OpenAI, Gemini, Claude, and locally hosted language models into business applications.
+- **AI Agents & Automation:** Building intelligent agents, customer support assistants, WhatsApp integrations, and automated business workflows.
+- **Full-Stack Development:** Building complete web applications, SaaS products, e-commerce platforms, and enterprise solutions.
+- **Technical Leadership:** Leading engineering teams, making architectural decisions, mentoring developers, and delivering production software.
+
+## 🧠 AI & Intelligent Systems
+
+I enjoy bringing AI beyond experimentation and into practical business applications.
+
+Some areas I work with:
+
+- Large Language Model (LLM) integration
+- OpenAI API, Google Gemini API and Claude API
+- Local AI deployment with Ollama
+- Locally hosted and open-weight language models
+- AI-powered customer support and WhatsApp automation
+- Knowledge-grounded AI responses and contextual prompting
+- AI agents and intelligent workflow automation
+- AI-assisted software engineering
+
+**My approach:** Build AI solutions that are useful, context-aware, practical, and capable of solving actual business problems.
+
+## 💳 Fintech & Financial Technology
+
+Financial technology is one of my strongest areas of interest and engineering experience.
+
+I have worked on systems involving:
+
+- Digital wallet architecture and management
+- Payment gateway and financial service integrations
+- Transaction processing and financial integrity
+- Payment provider orchestration and routing
+- Savings and cooperative financial systems
+- Utility payments and bill aggregation
+- Rewards, commissions and merchant monetisation
+- Transaction monitoring and operational safeguards
+
+### Featured Fintech Products
+
+| Product | Description |
+|---|---|
+| [Utilify Networks](https://utilify.ng) | A fintech platform for utility payments, wallet management, spending insights, rewards, budgeting, and AI-powered customer support. |
+| [SavingsBox / OneBox](https://www.linkedin.com/company/136105310/) | Cooperative financial technology involving savings products, wallet operations, payment integrations, and financial management. |
+
+## 🛠️ Technology Stack
+
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+</p>
+
+### Artificial Intelligence & LLMs
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-167D8D?style=for-the-badge" />
+</p>
+
+### Databases & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+## 🌍 Selected Projects
+
+| Project | Domain | Description |
+|---|---|---|
+| [Utilify](https://utilify.ng) | Fintech | Utility payments, digital wallets, rewards, financial insights and AI customer support. |
+| [SavingsBox / OneBox](https://www.linkedin.com/company/136105310/) | Fintech | Cooperative financial systems, savings, wallets and payment infrastructure. |
+| [Travelconet](https://travelconet.com) | Travel Tech | Flight and hotel booking platform with a custom administration system. |
+| [Beezlinq](https://beezlinq.com) | Digital Identity | Digital business cards, NFC, card scanning, e-wallet and in-app communication. |
+| [Tiqwa](https://tiqwa.com) | Travel SaaS | Booking dashboards and travel management functionality. |
+| [GabTaxi](https://gabtaxi.com) | Mobility Tech | Ride-hailing backend, real-time tracking and location-based dispatch. |
+
+I also build single-vendor and multi-vendor e-commerce platforms, SaaS applications, and custom business management systems.
+
+## 📦 Open-Source Contributions
+
+I enjoy building reusable tools that make software development and third-party integrations easier.
+
+| Repository | Description |
+|---|---|
+| [Laravel Monnify](https://github.com/bhekor/laravel-monnify) | Laravel integration package for Monnify. |
+| [Laravel Paymish](https://github.com/bhekor/laravel-paymish) | Laravel package for Paymish payment services. |
+| [Laravel Flutterwave](https://github.com/bhekor/laravel-flutterwave) | Laravel integration package for Flutterwave. |
+
+Explore more on [my GitHub repositories](https://github.com/bhekor?tab=repositories).
+
+## 📊 GitHub Statistics
+
+<table style="border: none">
+  <tr style="border: none">
+    <td width="50%" align="center" style="border: none">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=bhekor&show_icons=true&theme=tokyonight&hide_border=true"
+        width="100%"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td width="50%" align="center" style="border: none">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=bhekor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        width="100%"
+        alt="Most Used Languages"
+      />
+    </td>
   </tr>
 </table>
 
-<hr>
-
-<h3 align="center">👨‍💻 My Technology Stack</h4>
-
-<br>
-<div align="center">
-<a target="_blank" href="https://webastry.com.ng"><img style="display:inline-block;" height=70px src="https://user-images.githubusercontent.com/10033255/123436188-4acb2400-d5c6-11eb-8ab1-89dc647420a2.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img style="display:inline-block;" height="70px" src="https://user-images.githubusercontent.com/10033255/123435284-536f2a80-d5c5-11eb-929c-09a2174e4d1f.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img style="display:inline-block;" height=70px src="https://user-images.githubusercontent.com/10033255/123436786-e78dc180-d5c6-11eb-9b88-4b6e53898f59.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123438788-f8d7cd80-d5c8-11eb-9714-f384a673f372.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123438841-042af900-d5c9-11eb-88af-049429851af4.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123439190-61bf4580-d5c9-11eb-8132-48ca74f43661.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123439391-9d5a0f80-d5c9-11eb-9740-2fb26df02af6.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123437617-c679a080-d5c7-11eb-9e53-04e20456453b.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123437768-f32db800-d5c7-11eb-8133-04495238ead5.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123440085-528cc780-d5ca-11eb-9dd4-a7748afc79ee.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img height=70px src="https://user-images.githubusercontent.com/10033255/123440320-8d8efb00-d5ca-11eb-80ba-381307dccbce.png"></a>
-<a target="_blank" href="https://webastry.com.ng"><img style="display:inline-block;" height=70px src="https://user-images.githubusercontent.com/10033255/123437127-42271d80-d5c7-11eb-9a13-591f3ea502e2.png"></a>
- </div>
-
-<!-- <br>
-<table align="center">
-<tbody>
- <tr>
-<td align="center" width="25%"><img height="70px" src="https://user-images.githubusercontent.com/10033255/123435284-536f2a80-d5c5-11eb-929c-09a2174e4d1f.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123436188-4acb2400-d5c6-11eb-8ab1-89dc647420a2.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123436786-e78dc180-d5c6-11eb-9b88-4b6e53898f59.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123437127-42271d80-d5c7-11eb-9a13-591f3ea502e2.png"></td>
-</tr>
-
-<tr>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123438788-f8d7cd80-d5c8-11eb-9714-f384a673f372.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123438841-042af900-d5c9-11eb-88af-049429851af4.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123439190-61bf4580-d5c9-11eb-8132-48ca74f43661.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123439391-9d5a0f80-d5c9-11eb-9740-2fb26df02af6.png"></td>
-</tr>
-
- <tr>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123437617-c679a080-d5c7-11eb-9e53-04e20456453b.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123437768-f32db800-d5c7-11eb-8133-04495238ead5.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123440085-528cc780-d5ca-11eb-9dd4-a7748afc79ee.png"></td>
-<td align="center" width="25%"><img height=70px src="https://user-images.githubusercontent.com/10033255/123440320-8d8efb00-d5ca-11eb-80ba-381307dccbce.png"></td> 
- </tr>
-
-</tbody>
-</table> -->
-
-<hr>
-
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhekor&layout=compact&theme=tokyonight" />
-  <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=bhekor&theme=xcode" />
+  <a href="https://github.com/bhekor">
+    <img
+      src="https://ghchart.rshah.org/167D8D/bhekor"
+      width="100%"
+      alt="Ibidapo Adeolu's GitHub Contribution Graph"
+    />
+  </a>
 </p>
 
+## 🤝 Let's Connect
 
+I'm always interested in meaningful collaborations, challenging engineering problems, innovative products, and opportunities to build technology that makes a difference.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibidapo-adeolu-19066b66">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/bhekor">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://bhekor.com.ng">
+    <img src="https://img.shields.io/badge/Website-Visit-167D8D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:adeoluibidapo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building useful things. Solving meaningful problems. Engineering what comes next.</i>
+</p>
 
 <!--
-**bhekor/bhekor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**bhekor/bhekor** is a special repository because its README.md appears on your GitHub profile.
 -->

@@ -3,7 +3,7 @@
 ### Senior Software Engineer | Fintech & Financial Systems | AI & LLM Engineering
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10033255/123408035-7d642500-d5a4-11eb-9008-1641e4e155e7.png" width="100%"
+  <img src="https://raw.githubusercontent.com/bhekor/bhekor/refs/heads/main/Fintech%20AI%20Architecture%20Banner.png" width="100%"
     alt="Ibidapo Adeolu | Senior Software Engineer" />
 </p>
 
